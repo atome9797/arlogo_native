@@ -1,0 +1,43 @@
+ninja: Entering directory `/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/x86_64'
+[0/2] Re-checking globbed directories...
+[1/30] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/EventEmitters.cpp.o
+[2/30] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/rngesturehandler_codegen-generated.cpp.o
+[3/30] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp.o
+[4/30] Building CXX object CMakeFiles/arlogo_appmodules.dir/MainApplicationTurboModuleManagerDelegate.cpp.o
+[5/30] Building CXX object CMakeFiles/arlogo_appmodules.dir/MainApplicationModuleProvider.cpp.o
+[6/30] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/Props.cpp.o
+[7/30] Linking CXX shared library /Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_rngesturehandler_codegen.so
+[8/30] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o
+In file included from /Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp:1:
+In file included from /Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.h:6:
+/Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.h:19:7: warning: designated initializers are a C++20 extension [-Wc++20-designator]
+      .left = (float)value["left"].getDouble(),
+      ^
+1 warning generated.
+[9/30] Building CXX object CMakeFiles/arlogo_appmodules.dir/OnLoad.cpp.o
+[10/30] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o
+In file included from /Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp:1:
+/Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.h:19:7: warning: designated initializers are a C++20 extension [-Wc++20-designator]
+      .left = (float)value["left"].getDouble(),
+      ^
+1 warning generated.
+[11/30] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o
+[12/30] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o
+[13/30] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o
+[14/30] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o
+[15/30] Linking CXX shared library /Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_safeareacontext.so
+[16/30] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNode.cpp.o
+[17/30] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenState.cpp.o
+[18/30] Building CXX object CMakeFiles/arlogo_appmodules.dir/MainComponentsRegistry.cpp.o
+[19/30] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/rnscreens.cpp.o
+[20/30] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/react/renderer/components/rnsvg/EventEmitters.cpp.o
+[21/30] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/ShadowNodes.cpp.o
+[22/30] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/rnsvg-generated.cpp.o
+[23/30] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/react/renderer/components/rnsvg/ShadowNodes.cpp.o
+[24/30] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp.o
+[25/30] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Volumes/DATA/reactnative/arlogo/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/Props.cpp.o
+[26/30] Linking CXX shared library /Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_rnscreens.so
+[27/30] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/react/renderer/components/rnsvg/Props.cpp.o
+[28/30] Linking CXX shared library /Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_rnsvg.so
+[29/30] Building CXX object CMakeFiles/arlogo_appmodules.dir/Volumes/DATA/reactnative/arlogo/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o
+[30/30] Linking CXX shared library /Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libarlogo_appmodules.so

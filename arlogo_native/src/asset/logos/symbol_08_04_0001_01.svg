@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 143 90">
+  <g id="Logo">
+    <g>
+      <rect x=".89" y="58.89" width="26.72" height="26.86" rx="5.33" ry="5.33" fill="#fff"/>
+      <rect x="30.25" y="58.89" width="26.72" height="26.86" rx="5.33" ry="5.33" fill="#fff"/>
+      <rect x="1.18" y="29.67" width="26.72" height="26.86" rx="5.33" ry="5.33" fill="#fff"/>
+      <rect x="30.25" y="29.67" width="26.72" height="26.86" rx="5.33" ry="5.33" fill="#fff"/>
+      <rect x="1.18" y=".82" width="26.72" height="26.86" rx="5.33" ry="5.33" fill="#fff"/>
+      <rect x="114.43" y="58.89" width="26.72" height="26.86" rx="5.33" ry="5.33" fill="#fff"/>
+      <rect x="114.72" y="29.67" width="26.72" height="26.86" rx="5.33" ry="5.33" fill="#fff"/>
+      <rect x="114.72" y=".82" width="26.72" height="26.86" rx="5.33" ry="5.33" fill="#fff"/>
+      <path d="M75.99,87.51l-11.34-11.4c-2.09-2.1-2.09-5.49,0-7.59l11.34-11.4c2.09-2.1,5.47-2.1,7.55,0l11.34,11.4c2.09,2.1,2.09,5.49,0,7.59l-11.34,11.4c-2.09,2.1-5.47,2.1-7.55,0Z" fill="#fff"/>
+      <rect width="143" height="90" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g id="_01기본_shape_01_0008" data-name=" 01기본 shape 01 0008">
+      <path d="M50,0h250V300H0V50C0,22.39,22.39,0,50,0Z" fill="none"/>
+      <path d="M300,300H0V50C0,22.43,22.43,0,50,0h250V300ZM10,290H290V10H50C27.94,10,10,27.94,10,50v240Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

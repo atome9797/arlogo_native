@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 245 71">
+  <g id="Logo">
+    <g>
+      <path d="M23.01,53.99h12.02v12.22h-12.02v-12.22Z" fill="#fff"/>
+      <path d="M213.4,53.94h12.24v12.35h-12.24v-12.35Z" fill="#fff"/>
+      <path d="M18.6,66.41H6.55v-12.39h12.04v12.39Z" fill="#fff"/>
+      <path d="M241.88,66.5h-12v-12.42h12v12.42Z" fill="#fff"/>
+      <path d="M6.43,37.78h12.18v12.14H6.43v-12.14Z" fill="#fff"/>
+      <path d="M22.74,49.82v-11.9h12.51v11.9h-12.51Z" fill="#fff"/>
+      <path d="M213.18,49.79v-11.83h12.5v11.83h-12.5Z" fill="#fff"/>
+      <path d="M242.14,37.96v11.93h-12.06v-11.93h12.06Z" fill="#fff"/>
+      <path d="M122.32,2.68V14.89h-12.46V2.68h12.46Z" fill="#fff"/>
+      <path d="M126.62,2.36h11.83V14.68h-11.83V2.36Z" fill="#fff"/>
+      <path d="M109.93,18.99h12.08v12.11h-12.08v-12.11Z" fill="#fff"/>
+      <path d="M138.87,19.08v12.07c-4.06,.21-7.93,.42-12.4,.65v-12.72h12.4Z" fill="#fff"/>
+      <rect width="245" height="71" fill="none"/>
+    </g>
+  </g>
+</svg>

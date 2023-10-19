@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 104">
+  <g id="Logo">
+    <g id="symbol_06_01_0001_01" data-name="symbol 06 01 0001 01">
+      <rect id="_사각형_14" data-name="사각형 14" x="56.22" y="0" width="47.78" height="47.78" fill="#fff"/>
+      <path id="_패스_193" data-name="패스 193" d="M.06,47.78V0H47.84" fill="#fff"/>
+      <rect id="_사각형_15" data-name="사각형 15" y="56.22" width="47.78" height="47.78" fill="#fff"/>
+      <path id="_패스_194" data-name="패스 194" d="M56.22,56.22v47.78h47.78V56.22H56.22Zm23.89,44.97c-11.64,0-21.08-9.44-21.08-21.08h0c0-11.64,9.44-21.08,21.08-21.08h0c11.64,0,21.08,9.44,21.08,21.08h0c0,11.64-9.44,21.08-21.08,21.08h0Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

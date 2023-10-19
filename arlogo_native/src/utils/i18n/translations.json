@@ -1,0 +1,16 @@
+{
+  "ko":{
+    "translation": {
+      "home":"홈",
+      "hello":"Hello",
+      "this line is translated":"This line is translated"
+    }
+  },
+  "en":{
+    "translation": {
+      "home":"home",
+      "hello":"Hello",
+      "this line is translated":"This line is translated"
+    }
+  }
+}

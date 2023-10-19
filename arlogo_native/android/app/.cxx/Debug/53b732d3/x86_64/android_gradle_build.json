@@ -1,0 +1,151 @@
+{
+  "buildFiles": [
+    "/Volumes/DATA/reactnative/arlogo/android/app/src/main/jni/CMakeLists.txt",
+    "/Volumes/DATA/reactnative/arlogo/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Volumes/DATA/reactnative/arlogo/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+    "/Volumes/DATA/reactnative/arlogo/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+    "/Volumes/DATA/reactnative/arlogo/node_modules/react-native-svg/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Volumes/DATA/reactnative/arlogo/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbjni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/indieidea/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/indieidea/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "arlogo_appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "arlogo_appmodules",
+      "output": "/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libarlogo_appmodules.so",
+      "runtimeFiles": [
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libfabricjni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_componentregistry.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libruntimeexecutor.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_rngesturehandler_codegen.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_safeareacontext.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_rnscreens.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_rnsvg.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_mapbuffer.so",
+        "/Volumes/DATA/reactnative/arlogo/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbjni/jni/x86_64/libfbjni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libglog.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libjsi.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_codegen_rncore.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_debug.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_nativemodule_core.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libfolly_runtime.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_core.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_debug.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_graphics.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/librrc_view.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libturbomodulejsijni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libyoga.so"
+      ]
+    },
+    "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_rngesturehandler_codegen",
+      "output": "/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_rngesturehandler_codegen.so",
+      "runtimeFiles": [
+        "/Volumes/DATA/reactnative/arlogo/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbjni/jni/x86_64/libfbjni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libglog.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libjsi.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_codegen_rncore.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_debug.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_nativemodule_core.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_core.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_debug.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_graphics.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/librrc_view.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libturbomodulejsijni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libyoga.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libfolly_runtime.so"
+      ]
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_rnscreens",
+      "output": "/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "/Volumes/DATA/reactnative/arlogo/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbjni/jni/x86_64/libfbjni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libglog.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libjsi.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_codegen_rncore.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_debug.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_nativemodule_core.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_core.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_debug.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_graphics.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_mapbuffer.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/librrc_view.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libturbomodulejsijni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libyoga.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libfolly_runtime.so"
+      ]
+    },
+    "react_codegen_rnsvg::@4f40eb209d0c0b4a3b65": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_rnsvg",
+      "output": "/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_rnsvg.so",
+      "runtimeFiles": [
+        "/Volumes/DATA/reactnative/arlogo/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbjni/jni/x86_64/libfbjni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libglog.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libjsi.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_codegen_rncore.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_debug.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_nativemodule_core.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_core.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_debug.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_graphics.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/librrc_view.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libturbomodulejsijni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libyoga.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libfolly_runtime.so"
+      ]
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_safeareacontext",
+      "output": "/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/53b732d3/obj/x86_64/libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "/Volumes/DATA/reactnative/arlogo/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbjni/jni/x86_64/libfbjni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libglog.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libjsi.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_codegen_rncore.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_debug.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_nativemodule_core.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_core.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_debug.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_graphics.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libreact_render_mapbuffer.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/librrc_view.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libturbomodulejsijni.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libyoga.so",
+        "/Volumes/DATA/reactnative/arlogo/android/app/build/react-ndk/exported/x86_64/libfolly_runtime.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/indieidea/Library/Android/sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/indieidea/Library/Android/sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

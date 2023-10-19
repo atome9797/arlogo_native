@@ -1,0 +1,7 @@
+{
+  "name": "arlogo",
+  "displayName": "arlogo",
+  "packagerOpts": {
+    "sourceExts": ["js", "jsx", "ts", "tsx", "svg"]
+  }
+}

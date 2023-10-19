@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 303 143">
+  <g id="Logo">
+    <g>
+      <path d="m300.24,17.68v-1.74h-7.76V2.76h-1.75v13.17h-90.64V2.76h-1.75v13.17h-92V2.76h-1.75v13.17H13.95V2.76h-1.75v13.17H2.98v1.74h9.22v53.38H2.98v1.74h9.22v68.3h1.75v-68.3h90.64v68.3h1.75v-68.3h92v68.3h1.75v-68.3h90.64v68.3h1.75v-68.3h7.76v-1.74h-7.76V17.68h7.76ZM13.95,71.05V17.68h90.64v53.38H13.95Zm92.39,0V17.68h92v53.38h-92Zm184.39,0h-90.64V17.68h90.64v53.38Z" fill="#fff"/>
+      <rect width="303" height="143" fill="none"/>
+    </g>
+  </g>
+</svg>

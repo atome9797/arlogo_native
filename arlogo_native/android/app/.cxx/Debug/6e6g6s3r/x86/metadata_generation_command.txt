@@ -1,0 +1,28 @@
+                    Executable : /Users/indieidea/Library/Android/sdk/cmake/3.18.1/bin/cmake
+arguments : 
+-H/Volumes/DATA/reactnative/arlogo/android/app/src/main/jni
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/indieidea/Library/Android/sdk/ndk/24.0.8215888
+-DCMAKE_ANDROID_NDK=/Users/indieidea/Library/Android/sdk/ndk/24.0.8215888
+-DCMAKE_TOOLCHAIN_FILE=/Users/indieidea/Library/Android/sdk/ndk/24.0.8215888/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/indieidea/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/6e6g6s3r/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Volumes/DATA/reactnative/arlogo/android/app/build/intermediates/cxx/Debug/6e6g6s3r/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/6e6g6s3r/x86
+-GNinja
+-DPROJECT_BUILD_DIR=/Volumes/DATA/reactnative/arlogo/android/app/build
+-DREACT_ANDROID_DIR=/Volumes/DATA/reactnative/arlogo/android/../node_modules/react-native/ReactAndroid
+-DREACT_ANDROID_BUILD_DIR=/Volumes/DATA/reactnative/arlogo/android/../node_modules/react-native/ReactAndroid/build
+-DNODE_MODULES_DIR=/Volumes/DATA/reactnative/arlogo/android/../node_modules
+-DANDROID_STL=c++_shared
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

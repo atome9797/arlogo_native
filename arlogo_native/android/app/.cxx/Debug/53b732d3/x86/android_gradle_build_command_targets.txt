@@ -1,0 +1,11 @@
+Executable : /Users/indieidea/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/x86
+arlogo_appmodules
+react_codegen_rngesturehandler_codegen
+react_codegen_rnscreens
+react_codegen_rnsvg
+react_codegen_safeareacontext
+jvmArgs : 
+

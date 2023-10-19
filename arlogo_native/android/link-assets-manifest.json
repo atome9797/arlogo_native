@@ -1,0 +1,149 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/asset/fonts/AppleSDGothicNeoB00.ttf",
+      "sha1": "bfefecc3ca3876da332f8f71d6f2cda65d3a0fc3"
+    },
+    {
+      "path": "src/asset/fonts/AppleSDGothicNeoH00.ttf",
+      "sha1": "97a5fb9b8d518fa528efec5d042cca6f3f6fd474"
+    },
+    {
+      "path": "src/asset/fonts/AppleSDGothicNeoM00.ttf",
+      "sha1": "675426f18f269f24ed4f58bbb59ae2bfc86737f4"
+    },
+    {
+      "path": "src/asset/fonts/BCcardB.ttf",
+      "sha1": "a350dd3fbd857df7175a40b5b5f01b09a3184864"
+    },
+    {
+      "path": "src/asset/fonts/BCcardL.ttf",
+      "sha1": "88d85ac3ddadade446a889d6666e1e6aa5e31f3d"
+    },
+    {
+      "path": "src/asset/fonts/BMYEONSUNG.ttf",
+      "sha1": "f54e562e16c32815eac427c321a7e2b38e9537dc"
+    },
+    {
+      "path": "src/asset/fonts/EliceDigitalBaeum-Bd.ttf",
+      "sha1": "ef81273997052c892db2efe74c57828b9c9c1ac8"
+    },
+    {
+      "path": "src/asset/fonts/EliceDigitalBaeum.ttf",
+      "sha1": "3e117a7f049067b0cf2e243c58ddedb4ffa295ab"
+    },
+    {
+      "path": "src/asset/fonts/GangwonEduAllBold.ttf",
+      "sha1": "3d79faadb80e6097dcc18a683785e507da4c6eb4"
+    },
+    {
+      "path": "src/asset/fonts/GangwonEduAllLight.ttf",
+      "sha1": "83b78e96a1626533320db5d55adbd06e1db6e827"
+    },
+    {
+      "path": "src/asset/fonts/GangwonEduPowerExtraBold.ttf",
+      "sha1": "c0c04b5ea24c96b6168b32c53d3f6ec4a910a5dc"
+    },
+    {
+      "path": "src/asset/fonts/GmarketSansTTFBold.ttf",
+      "sha1": "b52c2a5f5bf990aa0c28efc2815c7d6d9a9ea260"
+    },
+    {
+      "path": "src/asset/fonts/GmarketSansTTFLight.ttf",
+      "sha1": "97c64d4184d42895529e70d4453cd1299a09c0b9"
+    },
+    {
+      "path": "src/asset/fonts/GmarketSansTTFMedium.ttf",
+      "sha1": "abf7d6ce1869bad059315fc748aa2d5d56d00892"
+    },
+    {
+      "path": "src/asset/fonts/HCRBatang-Bold.ttf",
+      "sha1": "9556b113b4000ffc27481a8ebb915708bb4fbd15"
+    },
+    {
+      "path": "src/asset/fonts/HCRBatang.ttf",
+      "sha1": "5776e1cc712404f424ce177a00c47837e21639bf"
+    },
+    {
+      "path": "src/asset/fonts/ImcreSoojin.ttf",
+      "sha1": "924afd6d3a57796f722e235ad9347ded4bdb4427"
+    },
+    {
+      "path": "src/asset/fonts/Lato-Bold.ttf",
+      "sha1": "d67fee08c79a82ce375ab9629ae5a903da8bb321"
+    },
+    {
+      "path": "src/asset/fonts/NanumBarunGothic.ttf",
+      "sha1": "4cabe6cb0ea79fcbde1a767f5d192f84cf2dfacd"
+    },
+    {
+      "path": "src/asset/fonts/NanumBarunGothicBold.ttf",
+      "sha1": "18d55c4804f073229b4b84ab50926aa2af6831e9"
+    },
+    {
+      "path": "src/asset/fonts/NanumBarunGothicLight.ttf",
+      "sha1": "43d070fe37a38a2fa4eefaee2b1496ac1169726f"
+    },
+    {
+      "path": "src/asset/fonts/NanumGothic.ttf",
+      "sha1": "6b61cdb4fe859e3932437d6d816c1944daeff1b2"
+    },
+    {
+      "path": "src/asset/fonts/NanumGothicBold.ttf",
+      "sha1": "f892d26a11d118ca76a00901390f611c34bbf62d"
+    },
+    {
+      "path": "src/asset/fonts/NanumMyeongjo.ttf",
+      "sha1": "fff5fd3f51dfff394c88948a703ea746b3ef52fb"
+    },
+    {
+      "path": "src/asset/fonts/NanumMyeongjoBold.ttf",
+      "sha1": "4b5299e387fea8bab768cb78c228b304dfe35391"
+    },
+    {
+      "path": "src/asset/fonts/NanumMyeongjoExtraBold.ttf",
+      "sha1": "a891c3233a43468b46159004e253c095064b5de3"
+    },
+    {
+      "path": "src/asset/fonts/NanumSquareRoundB.ttf",
+      "sha1": "e92331df4c26e67374cb41c18d4bdf326db8e53d"
+    },
+    {
+      "path": "src/asset/fonts/NanumSquareRoundL.ttf",
+      "sha1": "d5015ab895abdfd00f8a23105552f153cd953afa"
+    },
+    {
+      "path": "src/asset/fonts/NanumSquareRoundR.ttf",
+      "sha1": "f0c70764bea3fab551e1dedaae059d4495afd8db"
+    },
+    {
+      "path": "src/asset/fonts/NotoSans-Bold.ttf",
+      "sha1": "00a4dc42180951b52eb9797cb4d6f64527432220"
+    },
+    {
+      "path": "src/asset/fonts/NotoSans.ttf",
+      "sha1": "2b2500b3269369d0d1a29768aaa869405d4f1575"
+    },
+    {
+      "path": "src/asset/fonts/ONEMobileTitleRegular.ttf",
+      "sha1": "87fdd9e6192480b06cbf6ee6308b3052f01071f2"
+    },
+    {
+      "path": "src/asset/fonts/SEBANGGothic.ttf",
+      "sha1": "78d79442ddfa6224fc83cc6f0214c4a06300cb6c"
+    },
+    {
+      "path": "src/asset/fonts/SEBANGGothicBold.ttf",
+      "sha1": "597d386a0d7b5c086369ff571ad70f76ba205d8e"
+    },
+    {
+      "path": "src/asset/fonts/TTTtangsbudaejjigaeB.ttf",
+      "sha1": "0a77003d471a09d0c85cb34bc2c209c4229da858"
+    },
+    {
+      "path": "src/asset/fonts/TTTtangsbudaejjigaeL.ttf",
+      "sha1": "a750b76b7fbd222a00a472d0b3fcbcc9e15211f0"
+    }
+  ]
+}

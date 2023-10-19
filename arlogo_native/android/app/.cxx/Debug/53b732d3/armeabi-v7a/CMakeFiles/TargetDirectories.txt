@@ -1,0 +1,17 @@
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/CMakeFiles/arlogo_appmodules.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/fbjni_build/CMakeFiles/rebuild_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/fbjni_build/CMakeFiles/edit_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/edit_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/rnsvg_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/rnsvg_autolinked_build/CMakeFiles/edit_cache.dir
+/Volumes/DATA/reactnative/arlogo/android/app/.cxx/Debug/53b732d3/armeabi-v7a/rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir
